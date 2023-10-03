@@ -1,0 +1,45 @@
+if a > b:
+
+
+
+print "hola";
+
+
+
+include a;
+
+int a = b "hola" c;
+
+a = for b in b print
+
+a = b MIENTRA b c print (int (d)) e f
+
+
+
+for a in range() print(e)
+
+a =
+
+return a
+
+raise print "hola";
+
+a = b if b c print () else print()
+
+a = b = if c d print() else print()
+
+
+
+public class a {}
+
+public int a float b char c {return a}
+
+
+
+a b = new c()
+
+PRIn a;
+
+order a;
+
+
